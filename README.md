@@ -69,7 +69,7 @@ Before you can perform any queries or analysis, the magazine editors have some r
 
 ## Part 3: Exploratory Analysis
 
-"Eat Safe, Love" has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid. 🤔
+"Eat Safe, Love" has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
 Some notes to be aware of while you are exploring the dataset:
 
